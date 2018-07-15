@@ -306,3 +306,48 @@ p {
     
 }
 
+/* ----------- client -----------*/
+.client {
+    text-align: center;
+    padding: 50px 0 80px;
+    background-color: #3399ff;
+    color: : #fff;
+}
+
+
+.client h2{
+    color: #5e5e5e;
+}
+
+.client b{
+    padding-bottom: 40px;
+}
+
+.client img{
+    width: 200px;
+    opacity: 0.6;
+    cursor: pointer;
+    margin: 40px 0;
+    transition: all 500ms ease-in-out;
+}
+
+.client li:hover img { /* must be have img, not have img will not EFFECT */
+    opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
